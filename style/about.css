@@ -1,0 +1,24 @@
+img {
+    opacity: 0.5;
+  }
+  
+  img:hover {
+    opacity: 1.0;
+  }
+
+  input {
+    width: 30%;
+  }
+
+  input[type=text] {
+    border: 2px solid red;
+    border-radius: 4px;
+  }
+  input[type=email] {
+    border: 2px solid red;
+    border-radius: 4px;
+  }
+  input[type=number] {
+    border: 2px solid red;
+    border-radius: 4px;
+  }
